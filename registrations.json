@@ -1,0 +1,110 @@
+{
+  "react173": [
+    {
+      "name": "Thirupathi chilagani",
+      "email": "thirupathi@gmail.com",
+      "city": "Hyderabad",
+      "course": "React",
+      "phone": 7896541211,
+      "id": 2
+    },
+    {
+      "name": "Sagan",
+      "email": "sagan@gmail.com",
+      "city": "Hyderabad",
+      "course": "React",
+      "phone": "7780121551",
+      "id": 7
+    },
+    {
+      "name": "Pranavi",
+      "email": "pranavi@gmail.com",
+      "city": "Hyd",
+      "course": "UI",
+      "phone": "9963265023",
+      "id": 8
+    },
+    {
+      "name": "Sahasra Chilagani",
+      "email": "sahasra@gmail.com",
+      "city": "Hyd",
+      "course": "Fullstack",
+      "phone": "9959903333",
+      "id": 9
+    },
+    {
+      "name": "SaganSahasra chilagani",
+      "email": "sagansahasra@gmail.com",
+      "city": "Hyd",
+      "course": "React",
+      "phone": "9959903333",
+      "id": 10
+    }
+  ],
+  "react172": [
+    {
+      "name": "vijaykumar m",
+      "email": "vijay@gmail.com",
+      "city": "Hyd",
+      "course": "Fullstack Developer",
+      "phone": "7896541232",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Thirupathi",
+      "email": "thirupathi@gmail.com",
+      "city": "Hyderabad",
+      "course": "React",
+      "phone": 7896541211
+    },
+    {
+      "id": 4,
+      "name": "Madhavi",
+      "email": "madhavi@gmail.com",
+      "city": "Secundrabad",
+      "course": "UI",
+      "phone": 9896541101
+    },
+    {
+      "id": 5,
+      "name": "Madhu",
+      "email": "madhu@gmail.com",
+      "city": "Prakasham",
+      "course": "Fullstack",
+      "phone": 9896541199
+    },
+    {
+      "name": "Sagan",
+      "email": "sagan@gmail.com",
+      "city": "Hyderabad",
+      "course": "React",
+      "phone": "7780121551",
+      "id": 7
+    },
+    {
+      "name": "Pranavi",
+      "email": "pranavi@gmail.com",
+      "city": "Hyd",
+      "course": "UI",
+      "phone": "9963265023",
+      "id": 8
+    },
+    {
+      "name": "Sahasra Chilagani",
+      "email": "sahasra@gmail.com",
+      "city": "Hyd",
+      "course": "Fullstack",
+      "phone": "9959903333",
+      "id": 9
+    },
+    {
+      "name": "Hello",
+      "email": "hello@gmail.com",
+      "city": "hyd",
+      "course": "hhh",
+      "phone": "123456789",
+      "id": 10
+    }
+  ]
+}
